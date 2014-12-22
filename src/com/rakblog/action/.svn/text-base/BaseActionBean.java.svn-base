@@ -1,0 +1,22 @@
+package com.rakblog.action;
+
+import net.sourceforge.stripes.action.ActionBean;
+import net.sourceforge.stripes.action.ActionBeanContext;
+
+public class BaseActionBean implements ActionBean {
+	
+	private ActionBeanContext actionBeanContext;
+	
+	@Override
+	public ActionBeanContext getContext() {
+		return this.actionBeanContext;
+	}
+
+	@Override
+	public void setContext(ActionBeanContext ctx) {
+		this.actionBeanContext = ctx;
+	}
+	
+	
+
+}

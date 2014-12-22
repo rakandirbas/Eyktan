@@ -1,0 +1,75 @@
+.logo {
+	width: 350px;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	border: 0px;
+}
+
+#lg {
+		border: 0px;
+}
+
+.form {
+	width: 550px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+.searchField {
+	width: 550px;
+	height: 23px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 130%;
+}
+.searchButton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	height: 30px;
+	width: 200px;
+	color: #000;
+	margin-top: 20px;
+}
+.top {
+	background-color: #000;
+	margin: 0px;
+	height: 8px;
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-top: 8px solid #000;
+}
+.searchButtonLayout {
+	margin: auto;
+	width: 200px;
+}
+.indexInfo {
+
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	margin-top: 45px;
+
+}
+
+.footer {
+	
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	margin-top: 20px;
+		
+}
+
+.emp {
+	color: #d50c7c;
+}	
+	
+	
+	
